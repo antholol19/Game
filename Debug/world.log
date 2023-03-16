@@ -1,0 +1,13 @@
+﻿  Ball.cpp
+C:\Users\antho\source\repos\world\Ball.cpp(9,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\antho\source\repos\world\Ball.cpp(10,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  world.vcxproj -> C:\Users\antho\source\repos\world\Debug\world.exe
+  C:\Users\antho\source\repos\world\lib\SDL2\lib\x86\SDL2.dll
+  1 fichier(s) copiÚ(s)
+  C:\Users\antho\source\repos\world\lib\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\antho\source\repos\world\lib\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\antho\source\repos\world\lib\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\antho\source\repos\world\lib\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\antho\source\repos\world\lib\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\antho\source\repos\world\lib\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 fichier(s) copiÚ(s)
